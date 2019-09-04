@@ -1,0 +1,42 @@
+#nav{
+    overflow: hidden;
+    position: sticky;
+
+}
+ul{
+    list-style-type: none;
+    position: ;
+}
+#nav ul li{
+    float: left;
+    color: brown;
+    text-align: center;
+    padding: 20px 20px;
+    font-size: x-large;
+}
+#nav ul li:hover{
+    background-color: #7c7366;
+    color: black;
+}
+#nav ul li.active{
+    color: black;
+}
+body{
+   background-image:url('');
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+*{
+    font-weight:bold;
+    font-size: X-large;
+    font-family: 'Chilanka', cursive;
+    background-image: 
+}
+img{
+    width: 100%;
+    height: auto;
+}
+#icon{
+    padding: 30px;
+}
+

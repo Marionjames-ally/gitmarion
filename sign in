@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <link href="https://fonts.googleapis.com/css?family=Chilanka&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>WikiHow</title>
+    </head>
+
+<body>
+    
+    
+    <div id="nav">
+     <h1>WikiHow <u>to do anything</u></h1>
+      <nav>
+        <ul>
+            <li class="active">Home</li>
+            <li><a href="about.html">About us</a></li>
+            <li><a href="browse articles.html">Browse Articles</a></li>
+            <li><a href="help.html">Help</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="sign in.html">sign in</a></li>
+        </ul>
+    </nav>
+    </div>
+    <p>
+        <img src="https://www.wikihow.com/images/thumb/a/a2/We%27re_here_to_help-%282%29.jpg/460px-We%27re_here_to_help-%282%29.jpg">
+    </p>
+</body>
+</html>s
